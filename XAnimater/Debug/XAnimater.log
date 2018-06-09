@@ -1,0 +1,55 @@
+﻿  XWindow.cpp
+c:\users\tgwys\onedrive\tgwys\source\repos\xanimater\xanimater\xwindow.cpp(26): warning C4018: “<”: 有符号/无符号不匹配
+  XGraph.cpp
+c:\users\tgwys\onedrive\tgwys\source\repos\xanimater\xanimater\xgraph.cpp(26): warning C4018: “<”: 有符号/无符号不匹配
+  XAnimater.cpp
+c:\users\tgwys\onedrive\tgwys\source\repos\xanimater\xanimater\xanimater.cpp(54): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\tgwys\onedrive\tgwys\source\repos\xanimater\xanimater\xanimater.cpp(56): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\tgwys\onedrive\tgwys\source\repos\xanimater\xanimater\xanimater.cpp(58): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\tgwys\onedrive\tgwys\source\repos\xanimater\xanimater\xanimater.cpp(61): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\tgwys\onedrive\tgwys\source\repos\xanimater\xanimater\xanimater.cpp(63): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+fltkd.lib(Fl.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(Fl.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(flstring.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(flstring.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(Fl_abort.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(Fl_abort.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(fl_arci.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(fl_arci.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(Fl_arg.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(Fl_arg.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(Fl_Bitmap.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(Fl_Bitmap.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(fl_boxtype.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(fl_boxtype.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(Fl_Browser_.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(Fl_Browser_.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(Fl_Button.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(Fl_Button.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(fl_color.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(fl_color.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(Fl_compose.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(Fl_compose.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(fl_dnd.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(fl_dnd.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(Fl_Double_Window.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(Fl_Double_Window.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(fl_draw.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(fl_draw.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(fl_draw_image.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(fl_draw_image.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(fl_draw_pixmap.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(fl_draw_pixmap.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(fl_font.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(fl_font.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(Fl_get_system_colors.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(Fl_get_system_colors.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(Fl_Group.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(Fl_Group.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(fl_gtk.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(fl_gtk.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(Fl_Image.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(Fl_Image.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(fl_labeltype.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(fl_labeltype.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(fl_line_style.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(fl_line_style.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(Fl_lock.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(Fl_lock.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(Fl_Menu_Window.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(Fl_Menu_Window.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(Fl_Pixmap.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(Fl_Pixmap.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(fl_plastic.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(fl_plastic.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(fl_rect.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(fl_rect.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(Fl_Return_Button.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(Fl_Return_Button.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(fl_round_box.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(fl_round_box.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(Fl_Scrollbar.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(Fl_Scrollbar.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(fl_shortcut.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(fl_shortcut.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(Fl_Single_Window.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(Fl_Single_Window.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(Fl_Slider.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(Fl_Slider.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(fl_symbols.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(fl_symbols.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(Fl_Tiled_Image.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(Fl_Tiled_Image.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(Fl_Tooltip.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(Fl_Tooltip.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(Fl_Valuator.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(Fl_Valuator.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(fl_vertex.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(fl_vertex.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(Fl_Widget.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(Fl_Widget.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(Fl_Window.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(Fl_Window.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(screen_xywh.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(screen_xywh.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+fltkd.lib(vsnprintf.obj) : warning LNK4099: 未找到 PDB“fltk.pdb”(使用“fltkd.lib(vsnprintf.obj)”或在“C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\fltk.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  XAnimater.vcxproj -> C:\Users\tgwys\OneDrive\tgwys\source\repos\XAnimater\Debug\XAnimater.exe
